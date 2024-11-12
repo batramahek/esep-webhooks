@@ -1,0 +1,7 @@
+/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
